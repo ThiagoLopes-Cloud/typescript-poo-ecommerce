@@ -1,0 +1,1 @@
+{"version":3,"file":"CartItem.d.ts","sourceRoot":"","sources":["../../src/models/CartItem.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,WAAW,CAAA;AAEnC,MAAM,WAAW,QAAQ;IACvB,OAAO,EAAE,OAAO,CAAA;IAChB,QAAQ,EAAE,MAAM,CAAA;CACjB"}

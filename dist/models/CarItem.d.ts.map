@@ -1,0 +1,1 @@
+{"version":3,"file":"CarItem.d.ts","sourceRoot":"","sources":["../../src/models/CarItem.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,mBAAmB,CAAA;AAE3C,MAAM,WAAW,QAAQ;IACvB,OAAO,EAAE,OAAO,CAAA;IAChB,QAAQ,EAAE,MAAM,CAAA;CACjB"}
